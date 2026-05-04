@@ -1,0 +1,7 @@
+/.terraform
+terraform.tfstate
+/terraform.tfstate.d
+.terraform.lock.hcl
+claveTaller.pem
+terraform.tfstate.backup
+terraform.tfvars
