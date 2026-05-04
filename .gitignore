@@ -4,4 +4,3 @@ terraform.tfstate
 .terraform.lock.hcl
 claveTaller.pem
 terraform.tfstate.backup
-terraform.tfvars
